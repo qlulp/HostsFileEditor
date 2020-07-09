@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\HostEditor\HostEditor\bin\Debug\HostEditor.exe.config
+C:\Users\Admin\source\repos\HostEditor\HostEditor\bin\Debug\HostEditor.exe
+C:\Users\Admin\source\repos\HostEditor\HostEditor\bin\Debug\HostEditor.pdb
+C:\Users\Admin\source\repos\HostEditor\HostEditor\obj\Debug\HostEditor.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HostEditor\HostEditor\obj\Debug\HostEditor.Properties.Resources.resources
+C:\Users\Admin\source\repos\HostEditor\HostEditor\obj\Debug\HostEditor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HostEditor\HostEditor\obj\Debug\HostEditor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HostEditor\HostEditor\obj\Debug\HostEditor.exe
+C:\Users\Admin\source\repos\HostEditor\HostEditor\obj\Debug\HostEditor.pdb
+C:\Users\Admin\source\repos\HostEditor\HostEditor\obj\Debug\HostEditor.MainForm.resources
